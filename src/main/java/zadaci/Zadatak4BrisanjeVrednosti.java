@@ -1,2 +1,4 @@
-package zadaci;public class Zadatak4BrisanjeVrednosti {
+package zadaci;
+
+public class Zadatak4BrisanjeVrednosti {
 }
